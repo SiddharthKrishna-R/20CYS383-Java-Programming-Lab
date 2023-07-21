@@ -365,6 +365,12 @@ public class EPoliceCrimeInvestigationSystem extends JFrame implements ActionLis
 ```
 ### Demo
 #### Screenshots
-
+<center><img src = "./Images and Videos for The Project/Screenshot 2023-07-21 124715.png"></center>
+<center><img src = "./Images and Videos for The Project/Screenshot 2023-07-21 125113.png"></center>
+<center><img src = "./Images and Videos for The Project/Screenshot 2023-07-21 125646.png"></center>
+<center><img src = "./Images and Videos for The Project/Screenshot 2023-07-21 125723.png"></center>
+<center><img src = "./Images and Videos for The Project/Screenshot 2023-07-21 125811.png"></center>
+<center><img src = "./Images and Videos for The Project/Screenshot 2023-07-21 125832.png"></center>
+<center><img src = "./Images and Videos for The Project/Screenshot 2023-07-21 125902.png"></center>
 
 
